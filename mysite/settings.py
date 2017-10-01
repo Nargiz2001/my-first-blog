@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'ASIA/ASTANA'
+TIME_ZONE = 'Asia/Astana'
 
 USE_I18N = True
 
